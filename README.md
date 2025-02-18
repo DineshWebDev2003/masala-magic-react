@@ -4,7 +4,7 @@ Project Overview
 
 Masala Magic is a beautifully designed web application built using modern frontend technologies. This project was developed by Dinesh Mahendiran and is currently deployed on Netlify at:
 
-🔗 Live URL: Masala Magic
+🔗 Live URL: [Masala Magic](https://masala-magic.netlify.app/)
 
 How to Run the Project Locally
 
